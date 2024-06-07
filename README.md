@@ -77,7 +77,7 @@ secret_text = 'This is a secret message.'
 output_path = 'C:/Users/ASUS/Downloads/web/anime_output.png'
 hide_text(image_path, secret_text, output_path)
 # Praktikum Pert13
-| **Nama**            |    **Idris Syahrudn**   |
+| **Nama**            |   **Idris Syahrudin**   |
 |---------------------|-------------------------|
 | **NIM**             | **31210481**            |
 | **Kelas**           | **TI.22.A5**            |
